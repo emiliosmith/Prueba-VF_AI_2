@@ -33,7 +33,7 @@ Ubicaciones modernas y privadas dentro del reconocido **Hospital Ángeles Centro
 - Consultorios con tecnología avanzada
 - Ambientes tranquilos y cómodos
 
-![Consultorio Ángeles Centro Sur](URL-de-la-imagen)
+![Consultorio Ángeles Centro Sur](./imagenes/Hospital_1.jpg)
 ![Sala de Espera Ángeles Centro Sur](URL-de-la-imagen)
 
 ### Médica Fértil
