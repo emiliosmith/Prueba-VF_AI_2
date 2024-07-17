@@ -31,9 +31,11 @@ En **Vitality Fem**, estamos aquí para acompañarte en tu viaje hacia una vida 
 Ubicaciones modernas y privadas dentro del reconocido **Hospital Ángeles Centro Sur**.
 
 - Consultorios con tecnología avanzada
-- Ambientes tranquilos y cómodos
 
 ![Consultorio Ángeles Centro Sur](./imagenes/Hospital_1.jpg)
+
+- Ambientes tranquilos y cómodos
+
 ![Sala de Espera Ángeles Centro Sur](./imagenes/Hospital_2.jpg)
 
 ### Médica Fértil
@@ -41,9 +43,12 @@ Ubicaciones modernas y privadas dentro del reconocido **Hospital Ángeles Centro
 Espacios diseñados para la salud femenina en **Médica Fértil**.
 
 - Atención personalizada
-- Entorno acogedor y relajante
 
 ![Consultorio Médica Fértil](./imagenes/MF_1.jpg)
+
+
+- Entorno acogedor y relajante
+
 ![Sala de Tratamiento Médica Fértil](./imagenes/MF_2.jpg)
 
 ### Cómo Llegar
