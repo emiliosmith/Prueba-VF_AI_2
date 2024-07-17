@@ -48,8 +48,6 @@ Espacios diseñados para la salud femenina en **Médica Fértil**.
 
 ### Cómo Llegar
 
-Mapas interactivos y opciones de estacionamiento.
-
 ![Mapa Ubicación](./imagenes/Mapa_1.jpg)
 
 ## Nuestros Partners
