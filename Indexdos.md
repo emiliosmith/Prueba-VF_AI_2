@@ -34,7 +34,7 @@ Ubicaciones modernas y privadas dentro del reconocido **Hospital Ángeles Centro
 - Ambientes tranquilos y cómodos
 
 ![Consultorio Ángeles Centro Sur](./imagenes/Hospital_1.jpg)
-![Sala de Espera Ángeles Centro Sur](URL-de-la-imagen)
+![Sala de Espera Ángeles Centro Sur](./imagenes/Hospital_2.jpg)
 
 ### Médica Fértil
 
@@ -43,14 +43,14 @@ Espacios diseñados para la salud femenina en **Médica Fértil**.
 - Atención personalizada
 - Entorno acogedor y relajante
 
-![Consultorio Médica Fértil](URL-de-la-imagen)
-![Sala de Tratamiento Médica Fértil](URL-de-la-imagen)
+![Consultorio Médica Fértil](./imagenes/MF_1.jpg)
+![Sala de Tratamiento Médica Fértil](./imagenes/MF_1.jpg)
 
 ### Cómo Llegar
 
 Mapas interactivos y opciones de estacionamiento.
 
-![Mapa Ubicación](URL-de-la-imagen)
+![Mapa Ubicación](./imagenes/Mapa_1.jpg)
 
 ## Nuestros Partners
 
