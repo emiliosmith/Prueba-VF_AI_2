@@ -44,7 +44,7 @@ Espacios diseñados para la salud femenina en **Médica Fértil**.
 - Entorno acogedor y relajante
 
 ![Consultorio Médica Fértil](./imagenes/MF_1.jpg)
-![Sala de Tratamiento Médica Fértil](./imagenes/MF_1.jpg)
+![Sala de Tratamiento Médica Fértil](./imagenes/MF_2.jpg)
 
 ### Cómo Llegar
 
@@ -72,11 +72,3 @@ En **Vitality Fem**, nos enorgullece contar con un equipo de profesionales altam
 - **Dra. Ana Patricia Smith Bateon**: Ginecóloga especializada en salud reproductiva y menopausia. Formada en la Universidad Autónoma de Nuevo León, ha liderado programas de educación y prevención en salud femenina y es autora de varios estudios destacados.
 
 Nuestro equipo está comprometido con brindar una atención médica de excelencia, adaptada a las necesidades individuales de cada mujer.
-
-## Sugerencias de Recursos Visuales
-
-1. **Fotografías de las Instalaciones**: Imágenes de alta calidad que muestren nuestros consultorios, salas de espera y áreas de tratamiento, destacando la modernidad y comodidad del espacio.
-2. **Tours Virtuales**: Recorridos virtuales interactivos de nuestras instalaciones en el Hospital Ángeles Centro Sur y Médica Fértil.
-3. **Galería de Imágenes**: Una galería con fotos de diferentes áreas de nuestras instalaciones, incluyendo equipos médicos avanzados y áreas de tratamiento.
-4. **Vídeos Testimoniales**: Videos cortos de pacientes y personal médico hablando sobre su experiencia en nuestras instalaciones.
-5. **Mapas de Ubicación**: Mapas interactivos que muestren la ubicación exacta de nuestras instalaciones dentro del Hospital Ángeles Centro Sur y Médica Fértil.
